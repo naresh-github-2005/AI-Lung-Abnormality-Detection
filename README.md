@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/7b191548-fa7e-4eb7-a119-90061f29fb5d
 
 ## Datasets
 
-- Original competition dataset: [VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection)
+- Original competition dataset: [VinBigData Chest X-ray Abnormalities Detection](https://kaggle.com)
 - Preprocessed dataset: [VinBigData prep dataset](https://www.kaggle.com/datasets/naresh26032005/vinbigdata-prep)
 
 ## Architecture
