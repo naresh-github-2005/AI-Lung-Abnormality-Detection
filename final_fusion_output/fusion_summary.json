@@ -1,0 +1,24 @@
+{
+  "PREP_ROOT": "/kaggle/input/datasets/naresh26032005/vinbigdata-prep",
+  "COMP_ROOT": "/kaggle/input/competitions/vinbigdata-chest-xray-abnormalities-detection",
+  "RESNET_ROOT": "/kaggle/input/datasets/nareshr22mis0015/resnet50-advanced",
+  "YOLO640_ROOT": "/kaggle/input/datasets/nareshr22mis0015/yolo640-fixed",
+  "YOLO1024_ROOT": "/kaggle/input/datasets/nareshr22mis0015/yolo1024-stage2-bundle",
+  "best_binary_threshold": 0.7000000000000001,
+  "binary_metrics": {
+    "accuracy": 0.9543333333333334,
+    "f1": 0.9208549971114962,
+    "precision": 0.9354460093896714,
+    "recall": 0.906712172923777,
+    "auc": 0.9881970157035206
+  },
+  "multilabel_metrics": {
+    "micro_f1": 0.7347599965896496,
+    "macro_f1": 0.5237347489984779
+  },
+  "detection_metrics": {
+    "precision@0.5": 0.0,
+    "recall@0.5": 0.0,
+    "f1@0.5": 0.0
+  }
+}

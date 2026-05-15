@@ -1,0 +1,12 @@
+{
+  "binary_accuracy": 0.9543333333333334,
+  "binary_f1": 0.9208549971114962,
+  "binary_precision": 0.9354460093896714,
+  "binary_recall": 0.906712172923777,
+  "binary_auc": 0.9881970157035206,
+  "multilabel_micro_f1": 0.7347599965896496,
+  "multilabel_macro_f1": 0.5237347489984779,
+  "detection_precision@0.5": 0.0,
+  "detection_recall@0.5": 0.0,
+  "detection_f1@0.5": 0.0
+}
