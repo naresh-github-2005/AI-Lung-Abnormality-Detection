@@ -6,9 +6,7 @@ Streamlit app for VinBigData chest X-ray abnormality detection using a hybrid pi
 - Object detection: YOLOv8 at two input sizes
 - Fusion with refinement, NMS, and optional Grad-CAM
 
-## Live demo
-
-[Streamlit demo](https://ai-lung-abnormality-detection-mzihfjtfrnfa8yrktwpwgd.streamlit.app/)
+## Live demo - [Streamlit demo](https://ai-lung-abnormality-detection-mzihfjtfrnfa8yrktwpwgd.streamlit.app/)
 
 ## Datasets
 
