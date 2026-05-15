@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+ultralytics
+ensemble-boxes
+pydicom
+opencv-python-headless
+pandas
+numpy
+openpyxl
+Pillow
+matplotlib
