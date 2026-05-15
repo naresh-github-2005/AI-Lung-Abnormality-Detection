@@ -180,10 +180,3 @@ It separates training from inference, uses cached final weights, supports batch 
 
 ### 14. How would you improve the system further?
 I would add a learned invalid-image classifier, lung segmentation, tile-based inference for tiny lesions, and pseudo-labeling for further recall improvement.
-
-## Notes
-
-- The architecture section is intentionally written as plain text instead of Mermaid to avoid rendering issues on GitHub.
-- The notebook descriptions are short and focused on the purpose of each stage.
-- The interview Q&A is included to help explain the project in demos, reviews, and viva-style questions.
-
