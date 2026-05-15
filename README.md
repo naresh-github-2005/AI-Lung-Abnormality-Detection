@@ -7,6 +7,9 @@ Streamlit app for VinBigData chest X-ray abnormality detection using a hybrid pi
 - Fusion with refinement, NMS, and optional Grad-CAM
 
 ## Live demo - [Streamlit demo](https://ai-lung-abnormality-detection-mzihfjtfrnfa8yrktwpwgd.streamlit.app/)
+https://github.com/user-attachments/assets/7b191548-fa7e-4eb7-a119-90061f29fb5d
+
+
 
 ## Datasets
 
@@ -14,19 +17,7 @@ Streamlit app for VinBigData chest X-ray abnormality detection using a hybrid pi
 - Preprocessed dataset: VinBigData prep dataset
 
 ## Architecture
-
-```text
-User -> Streamlit UI -> Upload image(s)
-      -> Heuristic X-ray check
-      -> If invalid -> Invalid response
-      -> If valid -> Hybrid inference
-           -> ResNet50 binary TTA
-           -> ResNet50 multilabel TTA
-           -> YOLOv8 640
-           -> YOLOv8 1024
-           -> WBF + refinement + NMS
-           -> Final detections, class probabilities, Grad-CAM, Excel report
-```
+<img width="1448" height="1086" alt="AI-Lung-Abnormality-Detection_Architecture" src="https://github.com/user-attachments/assets/24117001-a661-4c79-85bb-0e0084ca1c5e" />
 
 ## Repository structure
 
